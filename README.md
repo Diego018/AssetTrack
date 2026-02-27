@@ -9,7 +9,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-> Plataforma de inventario dinámico para el control, préstamo y trazabilidad de activos de valor en organizaciones.
+Plataforma de inventario dinámico para el control, préstamo y trazabilidad de activos de valor en organizaciones.
 
 </div>
 
